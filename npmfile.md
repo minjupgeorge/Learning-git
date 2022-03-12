@@ -15,3 +15,4 @@ to install a specific package?
 
 Simple, you can use `npm install package name`
 
+![sampleimage](./imagespdf/sample.JPG)
