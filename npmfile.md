@@ -14,4 +14,4 @@ All you have to do is `npm install` and you will have all the packages you need.
 to install a specific package?
 
 Simple, you can use `npm install package name`
-+ ![sampletestimage](C:\Users\BIBY\Documents\HYF-MINJU\Learning-git\imagespdf\sample.JPG)
++ ![sampletestimage](./imagespdf/sample.JPG)
