@@ -5,7 +5,6 @@ We can use it to install packages.
 What are packages?
 
 - packages are code written by other developers.
-- They are very useful to us.
 
 Note: When you clone a repo from gitHub, if you look at package.json, you will see a list of packages that you need to install.
 
