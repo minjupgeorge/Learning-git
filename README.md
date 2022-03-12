@@ -87,6 +87,9 @@ git commit -m "Moved hello.html to lib"`
 In Git, "origin" is a shorthand name for the remote repository that a project was originally cloned from. 
   
   
-  ![REFERENCES](https://github.com/samirm00/workflows/tree/master/workflow-class)
-   ![CREATING CONFLICTS](https://githowto.com/creating_a_conflict)
+  [REFERENCES](https://github.com/samirm00/workflows/tree/master/workflow-class)
+  
+  [CREATING CONFLICTS](https://githowto.com/creating_a_conflict)
+  
+  [INTRODUTION TO GIT](https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)
   
