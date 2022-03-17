@@ -96,6 +96,10 @@ Run:
   
 `git commit -m "Moved hello.html to lib"`
   
+ + What is 'git stash'?
+Image result for git stash
+git stash temporarily shelves (or stashes) changes you've made to your working copy so you can work on something else, and then come back and re-apply them later on.
+  **merge conflicts** usually happen if a line of code has different versions locally and remotely on GitHub or on different branches..you will run into many of this over the course.. one way to minimise them is to always run a git pull origin main before pushing, so that you are on the latest version of the remote repo.
 +  What is origin in git
 
 In Git, "origin" is a shorthand name for the remote repository that a project was originally cloned from. 
