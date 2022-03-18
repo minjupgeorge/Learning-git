@@ -25,6 +25,8 @@ Sure, you will user terminal in VSCode to git pull and git push .
 - Commit my changes. `git commit -m "adding the header of the main page"`
 - push my changes to gitHub. `git push origin header`
 
+- to delete a branch, first you would switch to another branch (like main) and then run `git branch -D branchname`
+
 Creating a new branch is not related to Pull Request.
 Pull Request means that you want to merge the changes from your branch into main branch in Github and the reviewer will check your branch then can accept or ask you to edit something.
 
