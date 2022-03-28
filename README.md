@@ -106,6 +106,7 @@ git stash temporarily shelves (or stashes) changes you've made to your working c
 
 In Git, "origin" is a shorthand name for the remote repository that a project was originally cloned from. 
   
+ `git branch -r` to see all the branches of our repo
   
   [REFERENCES](https://github.com/samirm00/workflows/tree/master/workflow-class)
   
@@ -114,6 +115,10 @@ In Git, "origin" is a shorthand name for the remote repository that a project wa
   [CREATING CONFLICTS](https://githowto.com/creating_a_conflict)
   
   [INTRODUTION TO GIT](https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)
+  
+  [youtubevideoforhtml](https://www.youtube.com/watch?v=UB1O30fR-EE&t=2714s)
+  
+  [Tamervideos](https://drive.google.com/drive/folders/1zh4cutyUaGwzq8X0K9MkZ4dd833NIT3b)
   
  ## General notes, please:
 1- Create an issue and move it to To do column before starting write the .md files or coding.
