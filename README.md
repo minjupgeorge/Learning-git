@@ -109,7 +109,25 @@ In Git, "origin" is a shorthand name for the remote repository that a project wa
   
   [REFERENCES](https://github.com/samirm00/workflows/tree/master/workflow-class)
   
+  [ReferencelinkPRtoissue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+  
   [CREATING CONFLICTS](https://githowto.com/creating_a_conflict)
   
   [INTRODUTION TO GIT](https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)
   
+ ## General notes, please:
+1- Create an issue and move it to To do column before starting write the .md files or coding.
+  
+2- Assign your self to the issue when you want to start working and move the issue to In progress column.
+  
+3- Push the changes once you have finished and you can add more commits before asking for review.
+  
+4- Make sure the master branch and your branch are updated all the time.
+  
+5- DON'T ask for review if the task is not completed or you have linting errors.
+  
+6- You can ask for help if you have linting errors or any other problem by Discussion or Discord.
+  
+7- After finishing your task then move the issue to Ready for review and assign one or more to review PR.
+  
+8- Don't forget to add labels and milestone to the issue.
